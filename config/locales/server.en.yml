@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    discourse_iframe_enabled: "Discourse iframe plugin enabled"
+    content_security_policy_frame_ancestors: "Specify valid parents that may embed this site"

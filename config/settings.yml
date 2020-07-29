@@ -1,0 +1,7 @@
+plugins:
+  discourse_iframe_enabled:
+    default: true
+  content_security_policy_frame_ancestors:
+    type: simple_list
+    default: ""
+    
